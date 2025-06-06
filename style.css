@@ -12,6 +12,21 @@ div{
     background-color: lightcyan;
 }
 
+#tab1 {
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+#fr{
+    background-color: lightgreen;
+    padding: 2%;
+    border: 1px solid;
+    width: 25%;
+}
+#form{
+    padding-top: 5%;
+}
 /*headers*/
 h2{
     text-align: center  ;
@@ -60,11 +75,7 @@ td {
 
 }
 
-#tab1 {
-    padding-left: 20%;
-    padding-right: 20%;
 
-}
 
 #wk {
     background-color: lightcoral;
@@ -77,3 +88,6 @@ td {
 #th {
     background-color: lightgreen;
 }
+
+/*forms*/
+
